@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Dalyoung/apache-web#readme",
   "devDependencies": {
-    "jqeury": "0.0.1-security"
+    "jqeury": "0.0.1-security",
+    "jquery": "^3.4.1"
   }
 }
